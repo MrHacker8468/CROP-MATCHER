@@ -1,0 +1,143 @@
+[
+    {
+      "cropId": "Tomato #124",
+      "title": "Fresh Organic Tomato Box",
+      "price": "19,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Tomato",
+      "buyLink": "https://your-mockshop.com/product/124"
+    },
+    {
+      "cropId": "Carrot #99",
+      "title": "Sweet Baby Carrots",
+      "price": "12,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Carrot",
+      "buyLink": "https://your-mockshop.com/product/99"
+    },
+    {
+      "cropId": "Lettuce #45",
+      "title": "Crispy Green Lettuce",
+      "price": "8,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Lettuce",
+      "buyLink": "https://your-mockshop.com/product/45"
+    },
+    {
+      "cropId": "Strawberry #201",
+      "title": "Fresh Strawberries Pack",
+      "price": "25,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Strawberry",
+      "buyLink": "https://your-mockshop.com/product/201"
+    },
+    {
+      "cropId": "Cucumber #88",
+      "title": "Organic Cucumbers",
+      "price": "10,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Cucumber",
+      "buyLink": "https://your-mockshop.com/product/88"
+    },
+    {
+      "cropId": "Potato #301",
+      "title": "Golden Potatoes",
+      "price": "15,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Potato",
+      "buyLink": "https://your-mockshop.com/product/301"
+    },
+    {
+      "cropId": "Onion #77",
+      "title": "Fresh Onions Bag",
+      "price": "9,500 KRW",
+      "image": "https://via.placeholder.com/200?text=Onion",
+      "buyLink": "https://your-mockshop.com/product/77"
+    },
+    {
+      "cropId": "Apple #110",
+      "title": "Red Apples Box",
+      "price": "30,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Apple",
+      "buyLink": "https://your-mockshop.com/product/110"
+    },
+    {
+      "cropId": "Banana #220",
+      "title": "Sweet Yellow Bananas",
+      "price": "18,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Banana",
+      "buyLink": "https://your-mockshop.com/product/220"
+    },
+    {
+      "cropId": "Broccoli #66",
+      "title": "Fresh Broccoli Bunch",
+      "price": "14,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Broccoli",
+      "buyLink": "https://your-mockshop.com/product/66"
+    },
+    {
+      "cropId": "Corn #140",
+      "title": "Golden Sweet Corn",
+      "price": "17,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Corn",
+      "buyLink": "https://your-mockshop.com/product/140"
+    },
+    {
+      "cropId": "Peach #185",
+      "title": "Juicy Peaches",
+      "price": "28,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Peach",
+      "buyLink": "https://your-mockshop.com/product/185"
+    },
+    {
+      "cropId": "Spinach #55",
+      "title": "Organic Spinach Leaves",
+      "price": "7,500 KRW",
+      "image": "https://via.placeholder.com/200?text=Spinach",
+      "buyLink": "https://your-mockshop.com/product/55"
+    },
+    {
+      "cropId": "Mango #300",
+      "title": "Fresh Mangoes Pack",
+      "price": "32,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Mango",
+      "buyLink": "https://your-mockshop.com/product/300"
+    },
+    {
+      "cropId": "Watermelon #90",
+      "title": "Big Sweet Watermelon",
+      "price": "40,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Watermelon",
+      "buyLink": "https://your-mockshop.com/product/90"
+    },
+    {
+      "cropId": "Pear #250",
+      "title": "Crisp Korean Pears",
+      "price": "29,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Pear",
+      "buyLink": "https://your-mockshop.com/product/250"
+    },
+    {
+      "cropId": "Pumpkin #333",
+      "title": "Organic Pumpkin",
+      "price": "22,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Pumpkin",
+      "buyLink": "https://your-mockshop.com/product/333"
+    },
+    {
+      "cropId": "Blueberry #275",
+      "title": "Fresh Blueberries Pack",
+      "price": "35,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Blueberry",
+      "buyLink": "https://your-mockshop.com/product/275"
+    },
+    {
+      "cropId": "Grape #200",
+      "title": "Sweet Purple Grapes",
+      "price": "24,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Grape",
+      "buyLink": "https://your-mockshop.com/product/200"
+    },
+    {
+      "cropId": "Cabbage #101",
+      "title": "Fresh Green Cabbage",
+      "price": "11,000 KRW",
+      "image": "https://via.placeholder.com/200?text=Cabbage",
+      "buyLink": "https://your-mockshop.com/product/101"
+    }
+  ]
+  
